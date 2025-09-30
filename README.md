@@ -20,7 +20,7 @@ Learn RAG end-to-end and evaluate it with enterprise-grade trust frameworks.
 
 ## 🛠️ What’s Inside?
 
-- `notebooks/`: Step-by-step RAG tutorials (from fundamentals to advanced)
+- `notebooks/`: Step-by-step RAG tutorials (from fundamentals to advanced) WORK IN PROGRESS
 - `trust_framework/`: The only open-source TRUST framework for enterprise RAG
 - `src/`: Modular, production-grade code for your own RAG engine
 - `tests/`, `docs/`, and more: Designed for contributors and real-world pilots
