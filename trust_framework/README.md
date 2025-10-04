@@ -12,7 +12,7 @@ _A Practical, Battle-Tested Guide to Scalable, Auditable Enterprise AI_
 ---
 
 ## TL;DR
-
+![Failure Zone Diagram](./images/failure_stages.png)
 This repo makes it **straightforward to build an enterprise-grade Retrieval-Augmented Generation (RAG) stack** that doesn’t collapse in production. It implements the 5-pillar **T.R.U.S.T. Framework** — **Targeted use cases, Reliable metadata, User-aligned prompting, Scalable evaluation, and Trust through governance** — along with a runnable notebook and implementation checklists.
 
 - 📘 **Notebook**: **[`trust_framework/RAG_Implementation.ipynb`](https://github.com/anusky95/awesome-rag-guide/blob/main/trust_framework/RAG_Implementation.ipynb)**
