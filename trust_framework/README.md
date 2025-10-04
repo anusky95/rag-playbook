@@ -232,22 +232,6 @@ This project is licensed under the **MIT License** — see [LICENSE](./LICENSE) 
 
 ---
 
-## Assets to Add (Images)
-
-Create an `assets/` folder under `trust_framework/` and add the following images. Replace the placeholder paths in this README as you add them.
-
-| Image | Suggested Filename | Where It Appears | Notes |
-|---|---|---|---|
-| **Repo Banner** | `banner_trust_framework.png` | Top of README | Clean hero with title + tagline (“Enterprise RAG Playbook”). |
-| **TRUST Pillars** | `trust_pillars_diagram.png` | Below 5 Pillars section | 5 stacked blocks: T, R, U, S, T with brief subtitles. |
-| **Architecture** | `trust_architecture_flow.png` | Architecture section | Left-to-right pipeline: Ingest → Index → Retrieve → Prompt → Evaluate → Govern. |
-| **Evaluation Dashboard** | `trust_eval_dashboard.png` | Evaluation section | Small composite chart: precision/recall, hallucination rate over time. |
-| **Governance Flow** | `trust_governance_guardrails.png` | Governance section | Layered redaction + audit trail diagram. |
-
-> _Design tip:_ Use a muted palette that fits your personal brand (e.g., ivory, olive, sage, terracotta, dusty rose). Keep labels crisp; avoid dense text in images.
-
----
-
 ## Maintainer
 
 **Anupama Garani**  
