@@ -1,3 +1,15 @@
+.DS_Store
+.ultimate_rag_venv/
+*.pyc
+__pycache__/
+data/
+
+# Generated model/data files (re-created by running notebooks)
+notebooks/1_embeddings/nltk_data/
+notebooks/1_embeddings/*.model
+notebooks/1_embeddings/*.vocab
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -136,6 +148,7 @@ celerybeat.pid
 
 # Environments
 .env
+trust_framework/documents/.env
 .envrc
 .venv
 env/
