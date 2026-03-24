@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Ultimate RAG
+# 🧠 RAG Playbook
 
 ### The only RAG resource you'll ever need — from first principles to production governance.
 
